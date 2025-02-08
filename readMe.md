@@ -5,7 +5,8 @@
 - 一个MS office 账号
 -  `OPENAI_API_KEY`
 - `OPENAI_BASE_URL`
-
+- `llama cloud api key`
+**由于是用llama cloud 做文件解析服务,所以要到他们的[官网](https://cloud.llamaindex.ai/)申请一个apikey**
 # 搭建automate工作流
 ## 1.找到Teams对应的Team 和 Channel
 ![img.png](pics%2Fimg.png)
